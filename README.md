@@ -21,5 +21,5 @@ The app allows users to browse products, add them to the cart.
 
 ## Running
 
-- **npm install
-- **npm start
+- npm install
+- npm start
