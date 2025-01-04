@@ -1,0 +1,16 @@
+.cart-page {
+  padding: 16px;
+}
+
+.cart-item-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.cart-total {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: right;
+  margin-top: 16px;
+}
